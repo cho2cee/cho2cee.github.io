@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "test"
+title                    : "평생 공부 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 description              : ""
-name                     : "Hana Kang"
+#name                     : ""
 url                      : # "https://wpsl2848.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "wpsl2848/wpsl2848.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
