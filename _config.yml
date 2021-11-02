@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/images.jpg" # Open Graph/Twitter default site image
+og_image                 : "/assets/Images/Images.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "공부하는 중입니다"
-  avatar           : "/assets/images/images.jpg"
+  avatar           : "/assets/Images/Images.jpg"
   bio              : "I am an **amazing** person."
  # location         : "Seoul, South Korea"
  # email            :
