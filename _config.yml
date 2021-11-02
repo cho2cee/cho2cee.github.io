@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "cho2cee"
+title                    : "평생 공부 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 description              : ""
