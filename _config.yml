@@ -110,21 +110,20 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:wpsl2848@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:cho2cee@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-
+      url: "https://github.com/cho2cee"
+    #- label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
 
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/wpsl2848"
+      url: "https://github.com/cho2cee"
 
 
 # Reading Files
