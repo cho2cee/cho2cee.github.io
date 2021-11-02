@@ -105,7 +105,7 @@ author:
   name             : "cho2cee"
   avatar           : "/assets/images/Images.jpg"
   bio              : "I am an **amazing** person."
- # location         : "Seoul, South Korea"
+  location         : "Seoul, South Korea"
  # email            :
   links:
     - label: "Email"
