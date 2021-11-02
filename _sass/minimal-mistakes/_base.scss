@@ -142,7 +142,7 @@ a {
   text-decoration: none;
 
   &:focus {
-   /* @extend %tab-focus;*/
+  @extend %tab-focus;
   }
 
   &:hover {
