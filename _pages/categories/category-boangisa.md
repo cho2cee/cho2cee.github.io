@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories.정보보안기사 %}
+{% assign posts = site.categories.boangisa %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
