@@ -24,7 +24,6 @@
                     {% endif %}
                 {% endfor %}
             </ul>
-            
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "정보처리기사" %}
